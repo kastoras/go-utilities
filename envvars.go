@@ -2,6 +2,7 @@ package utilities
 
 import (
 	"fmt"
+	"log"	
 	"os"
 
 	"github.com/joho/godotenv"
